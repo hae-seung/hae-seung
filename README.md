@@ -53,7 +53,6 @@
 
 
 
-
 <br/>
 
 <div style="text-align: left;">
@@ -61,27 +60,20 @@
 
   <!-- GitHub Stats -->
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api
-      ?username=hae-seung
-      &show_icons=true
-      &bg_color=00000000
-      &title_color=3fa2ee
-      &text_color=3fa2ee
-      &icon_color=3fa2ee
-      &border_color=00000000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hae-seung&show_icons=true&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000" />
   </p>
 
   <!-- Top Languages -->
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/
-      ?username=hae-seung
-      &layout=compact
-      &bg_color=00000000
-      &title_color=3fa2ee
-      &text_color=3fa2ee
-      &border_color=00000000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hae-seung&layout=compact&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000" />
+  </p>
+
+  <!-- BOJ Tier -->
+  <p align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=123shs" />
   </p>
 </div>
+
 
 
 
