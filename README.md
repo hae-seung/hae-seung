@@ -61,24 +61,33 @@
   <!-- GitHub Stats + Top Languages (same row) -->
   <div style="display: flex; align-items: flex-start; gap: 12px;">
     <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=hae-seung&show_icons=true&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000"
+      src="https://github-readme-stats-sigma-five.vercel.app/api
+      ?username=hae-seung
+      &show_icons=true
+      &bg_color=0f172a
+      &title_color=60a5fa
+      &text_color=93c5fd
+      &icon_color=60a5fa
+      &border_color=0f172a"
       alt="GitHub Stats"
     />
     <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hae-seung&layout=compact&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/
+      ?username=hae-seung
+      &layout=compact
+      &bg_color=0f172a
+      &title_color=60a5fa
+      &text_color=93c5fd
+      &border_color=0f172a"
       alt="Top Languages"
     />
   </div>
 
   <!-- BOJ Tier (next line) -->
   <div style="margin-top: 12px;">
-    <img
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=123shs"
-      alt="BOJ Tier"
-    />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=123shs" alt="BOJ Tier" />
   </div>
 </div>
-
 
 
 
