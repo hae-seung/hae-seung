@@ -50,12 +50,14 @@
     </a>
   </p>
 </div>
+    
 
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div style="text-align: left;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=df&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=df&layout=compact&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hae-seung&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hae-seung&layout=compact&bg_color=180,3fa2ee,00000000&title_color=000000&text_color=000000" />
   </div>
 </div>
+
 
