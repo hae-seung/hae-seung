@@ -21,8 +21,9 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-    <a href="https://unity.com/">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal%20Engine&logoColor=white" />
+</a>
 </a>
   </div>
 </div>
